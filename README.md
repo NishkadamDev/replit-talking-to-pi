@@ -18,7 +18,7 @@ Claude handles the intelligent layer, processing commands and generating respons
 |---|---|
 | **Hardware** | Raspberry Pi 5 |
 | **Tunnel / Networking** | ngrok |
-| **AI** | Claude (Anthropic API) |
+| **AI** | Claude (Anthropic API), Gemini (Google) |
 | **App Platform** | Replit |
 | **Language** | Python |
 
